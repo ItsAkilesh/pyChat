@@ -1,2 +1,2 @@
 # pyChat
-Just some random chat server and clients I made in Python using Sockets and Threading
+Just a few LAN chat implementations like Sync Blocking, Async, etc. on Python using Sockets and Threading
